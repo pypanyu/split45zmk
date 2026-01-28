@@ -5,9 +5,9 @@ name: Build ZMK User Config
 on:
   workflow_dispatch:
   push:
-    branches: [main]
+    branches: 
   pull_request:
-    branches: [main]
+    branches:
 
 # 工作流任务
 jobs:
