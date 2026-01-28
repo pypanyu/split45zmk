@@ -11,6 +11,11 @@
             bindings = <&kp LA(F4)>;
             key-positions = <16 17>;
         };
+
+        lock {
+            bindings = <&kp LG(L)>;
+            key-positions = <28 29>;
+        };
     };
 
     keymap {
