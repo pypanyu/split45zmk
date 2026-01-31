@@ -16,6 +16,11 @@
             bindings = <&kp LG(L)>;
             key-positions = <28 29>;
         };
+
+        win {
+            bindings = <&kp LG(E)>;
+            key-positions = <15 14>;
+        };
     };
 
     keymap {
